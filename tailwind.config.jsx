@@ -11,6 +11,7 @@ tailwind.config = {
           colors: {
             bg: '#1C1B1B',
             text: '#F4EFEF',
+            blue: '#2FB2DC'
           }
         }
       }
